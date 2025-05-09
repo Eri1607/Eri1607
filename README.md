@@ -13,7 +13,6 @@
 🎓 Estudiante de Análisis y Desarrollo de Software    
 🔍 Explorando nuevas tecnologías  
 🧠 Actualmente aprendiendo: **React | Django | TailwindCSS**   
-📫 ¿Quieres hablar? ¡Estoy aquí!  
 🧩 Fun fact: A veces sueño en pseudocódigo ☁️
 
 ---
@@ -21,7 +20,7 @@
 ## 🧰 Herramientas que uso 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,react,django,html,css,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,react,django,html,css,git,github,vscode" />
 </p>
 
 ---
