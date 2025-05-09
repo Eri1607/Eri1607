@@ -44,11 +44,6 @@
 
 ---
 
-## 💡 Frase que me inspira
-
-> "El software es una herramienta para crear futuros que aún no existen." -
-
----
 
 ### ⚡ ¿Te gustó este README? ¡Dale una estrella ⭐ y visítame de nuevo!
 
