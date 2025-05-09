@@ -3,15 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Aprendiz+ADSO;Siempre+aprendiendo+cosas+nuevas!;Bienvenido+a+mi+GitHub!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Aprendiz+ADSO;Aprendiendo+cosas+nuevas!;Bienvenido+a+mi+GitHub!🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-🎓 Estudiante de Análisis y Desarrollo de Software  
-💻 Me encanta construir cosas útiles con código  
+🎓 Estudiante de Análisis y Desarrollo de Software    
 🔍 Explorando nuevas tecnologías  
 🧠 Actualmente aprendiendo: **React | Django | TailwindCSS**   
 📫 ¿Quieres hablar? ¡Estoy aquí!  
@@ -47,7 +46,7 @@
 
 ## 💡 Frase que me inspira
 
-> "El software es una herramienta para crear futuros que aún no existen." – *Tú, en tu README*
+> "El software es una herramienta para crear futuros que aún no existen." -
 
 ---
 
