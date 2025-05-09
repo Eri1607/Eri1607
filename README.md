@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">
+  ¡Hola mundo! 🌍 Soy <span style="color:#FACC15;">Erika Nicolle Corredor</span> 👋
+</h1>
 
-<!--
-**Eri1607/Eri1607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+FullStack;Apasionado+por+la+tecnología;Siempre+aprendiendo+cosas+nuevas!;Bienvenido+a+mi+GitHub!🚀" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+🎓 Estudiante de Análisis y Desarrollo de Software  
+💻 Me encanta construir cosas útiles con código  
+🔍 Explorando nuevas tecnologías  
+🧠 Actualmente aprendiendo: **React | Django | TailwindCSS**   
+📫 ¿Quieres hablar? ¡Estoy aquí!  
+🧩 Fun fact: A veces sueño en pseudocódigo ☁️
+
+---
+
+## 🧰 Herramientas que uso 
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,django,tailwind,html,css,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📈 Mis estadísticas en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Conéctate conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/erika-corredor-80600a320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eri16061142@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/Portafolio-%2312100E?style=for-the-badge&logo=Firefox&logoColor=white" /></a>
+</p>
+
+---
+
+## 💡 Frase que me inspira
+
+> "El software es una herramienta para crear futuros que aún no existen." – *Tú, en tu README*
+
+---
+
+### ⚡ ¿Te gustó este README? ¡Dale una estrella ⭐ y visítame de nuevo!
+
